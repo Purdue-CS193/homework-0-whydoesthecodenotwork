@@ -1,5 +1,7 @@
 # Lawrence's First CS193 Homework
 
+^ that is the header i swear
+
 ## Welcome to my awesome page
 
 ![hedgehog standing up doing an okay hand sign](./images/hedgehog.png)
