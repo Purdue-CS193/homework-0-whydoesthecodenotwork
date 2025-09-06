@@ -13,4 +13,4 @@ I hope you enjoy it. It's really great
 - Ability to artistically express myself
   - Graphic design is my passion
 - 193 is bigger than 180, so it's better
-- Optimally-scheduled (6:30pm 💥)
+- Optimally scheduled (6:30pm 💥)
